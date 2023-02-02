@@ -48,6 +48,6 @@ form button{
     outline: none;
     cursor: pointer;
     width: 150px;
-    margin: 20px auto o;
+    margin: 20px auto 0;
     border-radius: 30px;
 }
